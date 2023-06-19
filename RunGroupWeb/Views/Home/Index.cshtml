@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1 class="jumbotron-heading">RunGroops</h1>
+        <p class="lead text-muted">Run Race Enjoy !</p>
+        <p>
+            <a href="#" class="btn btn-primary my-2">Main call to action</a>
+            <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+        </p>
+    </div>
+</section>
+
+
+<div class="album py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <h1 class="fa-light">Running clubs near @Model.City, @Model.State</h1>
+            @if(Model.Clubs == null)
+            {
+                <h1 class="fa-light">There are np running clubs in your area! <a asp-action="" asp-controller="Account"
+                    asp-action="Login">Login</a> and create one!</h1>
+            }
+            else
+            {
+                @foreach(var item in Model.Clubs)
+                {
+                    <h1 class="fw-light">Running clubs near @Model.City, @Model.State</h1>
+
+                }
+            }
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-4 box-shadow">
+                    <img class="card-img-top" src="https://res.cloudinary.com/dkgakibfa/image/upload/v1680172567/cld-sample-3.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text">Hard work beats talent when talent doesn't work hard.</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                
+                            </div>
+                            <small class="text-muted">9 mins</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4 box-shadow">
+                    <img class="card-img-top" src="https://res.cloudinary.com/dkgakibfa/image/upload/v1686208457/samples/istockphoto-1204568602-612x612_wo3i8o.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text">The only way to prove that you're a good sport is to lose.</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                
+                            </div>
+                            <small class="text-muted">9 mins</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                        <img class="card-img-top" src="https://res.cloudinary.com/dkgakibfa/image/upload/v1686208607/v4-460px-Win-a-Running-Race-Step-2.jpg_tv6zmr.webp" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and, most of all, love of what you are doing or learning to do.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+
+                                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                </div>
+                                <small class="text-muted">9 mins</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
