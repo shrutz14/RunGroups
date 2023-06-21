@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RunGroupWeb
 build_property.RootNamespace = RunGroupWeb
-build_property.ProjectDir = C:\Users\shruti.jha\source\repos\RunGroupWeb\RunGroupWeb\
+build_property.ProjectDir = C:\Users\user\Desktop\New folder\RunGroups\RunGroupWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\shruti.jha\source\repos\RunGroupWeb\RunGroupWeb
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\New folder\RunGroups\RunGroupWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Account/Login.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Account/Register.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Club/Create.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Club/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Club/Delete.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Club/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Club/Detail.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Club/Edit.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Club/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Club/Index.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Club/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Dashboard/EditUserProfile.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Dashboard/EditUserProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVkaXRVc2VyUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Dashboard/Index.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Home/Index.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Home/Privacy.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Race/Create.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Race/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Race/Delete.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Race/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Race/Detail.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Race/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Race/Edit.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Race/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Race/Index.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Race/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Shared/Error.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/User/Detail.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/User/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/User/Index.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shruti.jha/source/repos/RunGroupWeb/RunGroupWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/New folder/RunGroups/RunGroupWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-28rzend8vd
